@@ -4,8 +4,7 @@ margin: 0;
 }
 
 body{
-	font-family: helvetica,Verdana;
-	background: #212121;
+	background: #FFFFFF;
 	color: #FFFFFF;
 	font-size: 2em;
 
@@ -46,5 +45,5 @@ section#principal, aside{
 
 }
 article{
-	
+
 }
